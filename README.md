@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eliyahumasinter
 - 👀 I’m interested in Python web development
 - 🌱 I’m currently working towards a degree in CS at the Jerusalem College of Technology.
-- 📫 Methods of contacting me are listed on my website: https://eliyahumasinter.com/contact
+- 📫 Contact me at eliyahumasinter@gmail.com
 
 Check out my personal website: https://eliyahumasinter.com
 
